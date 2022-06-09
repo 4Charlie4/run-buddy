@@ -126,8 +126,8 @@ section {
 }
 
 .intro p {
-  line-height:1.7;
-  color:#39a6b2;
+  line-height: 1.7;
+  color: #39a6b2;
   width: 80%;
   font-size: 20px;
   margin: 0 auto;
@@ -162,20 +162,17 @@ section {
   font-size: 38px;
 }
 
-
-
 .section-title {
   font-size: 55px;
   color: #024e76;
   margin-bottom: 35px;
-  padding:0 100px 20px 100px;
+  padding: 0 100px 20px 100px;
   display: inline-block;
   border-bottom: 3px solid;
 }
 
 .primary-border {
   border-color: #fce138;
-
 }
 
 .secondary-border {
