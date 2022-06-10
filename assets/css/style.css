@@ -188,7 +188,7 @@ section {
   margin: 0 auto 30px auto;
   background: #024e76;
   color: #fce138;
-  overflow:auto;
+  overflow: auto;
 }
 
 .trainer img {
@@ -202,10 +202,9 @@ section {
   width: 65%;
 }
 
-.trainer-bio h3{
+.trainer-bio h3 {
   font-size: 32px;
   margin-bottom: 8px;
-
 }
 
 .trainer-bio h4 {
